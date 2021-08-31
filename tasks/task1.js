@@ -8,7 +8,7 @@ const PI = 3.14;
 
 function circleAreaCalculator(radius){
 
-    console.log("Yarı Çapı "+radius +" olan dairenin alanı:"+(PI*radius)*2);
+    console.log("Yarı Çapı "+radius +" olan dairenin alanı:"+PI*radius**2);
   
 
 
